@@ -34,7 +34,7 @@
   npm install -g wrangler
   ```
 
-3.**登录cf账号**
+3. **登录cf账号**
 
 在控制台登录：
 
