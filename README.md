@@ -20,7 +20,7 @@
 
 2. **依赖安装**
 
-  1.确保 Node.js 和 npm 已安装
+  - 确保 Node.js 和 npm 已安装
 在命令提示符中，输入以下命令来检查是否已安装 Node.js 和 npm：
 
   ```bash
@@ -28,7 +28,7 @@
   npm -v
   ```
 
-  2.全局安装 Wrangler：
+  - 全局安装 Wrangler：
   
   ```bash
   npm install -g wrangler
