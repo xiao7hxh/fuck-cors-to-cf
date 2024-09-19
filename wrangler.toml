@@ -1,0 +1,6 @@
+name = "fuck-ddos"
+main = "src/index.ts"  
+compatibility_date = "2023-04-01"
+
+[triggers]
+crons = []
