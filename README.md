@@ -2,7 +2,7 @@
 
 ## 摧毁cors完整部署方式
 
-## ![原储存库](https://github.com/lgc2333/fuck-cors)
+## [原储存库](https://github.com/lgc2333/fuck-cors)
 
 # 声明
 
